@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MainWindow", "src\MainWindow.vbproj", "{F228D282-54AA-4470-B9AC-A9997BE8BF48}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "dirStruct", "src\dirStruct.vbproj", "{F228D282-54AA-4470-B9AC-A9997BE8BF48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
